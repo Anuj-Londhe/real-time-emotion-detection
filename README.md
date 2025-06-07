@@ -29,3 +29,8 @@ The model is based on a convolutional neural network trained on the FER-2013 dat
 - TensorFlow
 - OpenCV
 - NumPy
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
